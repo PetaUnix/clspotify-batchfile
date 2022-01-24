@@ -1,0 +1,4 @@
+1. Run Requirements.bat file (if you haven't installed on your python software packages or reinstall if it's corrupted.)
+2. Run Clspotify.bat so that you can start downloading.
+
+Thanks.. PetaUnix!!! 
